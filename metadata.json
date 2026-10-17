@@ -1,0 +1,6 @@
+{
+  "name": "Super Siswapreneur 3D - Petualangan Business Model Canvas SMK",
+  "description": "Gim petualangan 3D interaktif ala Mario untuk siswa SMK Kelas XI menguasai Kreativitas, Inovasi, Kewirausahaan dan 9 Blok Business Model Canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
